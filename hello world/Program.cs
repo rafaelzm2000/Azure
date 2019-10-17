@@ -8,6 +8,7 @@ namespace hello_world
         {
             Console.WriteLine("Hello World!");
             // change 3
+            string password = "[assword";
         }
     }
 }
